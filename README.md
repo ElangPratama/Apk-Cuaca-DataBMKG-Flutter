@@ -1,16 +1,10 @@
-# weather_chatbot_new
+## 🚀 Fitur Utama
+* **Data Real-time**: Mengambil data cuaca langsung dari API (Data BMKG).
+* **UI Interaktif**: Animasi cuaca yang dinamis menggunakan library Lottie.
+* **Framework**: Flutter
+* **Bahasa**: Dart
 
-A new Flutter project.
+* ## 📥 Instalasi
+Kamu bisa mencoba aplikasi ini secara langsung dengan mengunduh file APK pada tab **[Releases](https://github.com/ElangPratama/Apk-Cuaca-DataBMKG-Flutter/releases)**.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="LINK_GAMBAR_KAMU" width="300" alt="Screenshot Aplikasi">
